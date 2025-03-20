@@ -6,5 +6,5 @@ full_name = input("Enter your full name: ")
 # process text into cleaner version
 cleaned_text = full_name.strip() # .strip removes leading and trailing spaces
 
-# output fullname
+# output full name
 print(f"Cleaned text: {cleaned_text}")
