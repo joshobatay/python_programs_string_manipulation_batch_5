@@ -1,6 +1,7 @@
 # Ask the user to input a complete statement. Print the number of words in the input
 
 # Ask user complete statement
+entered_statement = input("Enter statement here: ")
 
 # Process number of words entered
 
