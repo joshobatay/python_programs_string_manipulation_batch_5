@@ -5,5 +5,6 @@
 entered_number = int(input('Enter number: '))
 
 # Process entered number
+formatted_number = str(entered_number).zfill(6) # zfill for formatting int numbers
 
 # Output number as 6 digits
