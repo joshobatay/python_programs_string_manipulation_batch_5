@@ -7,3 +7,4 @@ entered_full_name = input("Enter full name: ")
 full_name_pascal_case = entered_full_name.title().replace(" ", "") # title() for proper casing, replace() for removing spaces
 
 # Output full name to pascal case
+print(f"Your name in pascal case: {full_name_pascal_case}")
