@@ -1,7 +1,7 @@
-# ask the user to input their fullname. Print the input in all capital letter.
+# Ask the user to input their fullname. Print the input in all capital letter.
 
-# ask user their full name
+# Ask user their full name
+entered_full_name = input("Enter full name: ")
+# Process full name to all caps
 
-# process full name to all caps
-
-# output full name in all caps
+# Output full name in all caps
