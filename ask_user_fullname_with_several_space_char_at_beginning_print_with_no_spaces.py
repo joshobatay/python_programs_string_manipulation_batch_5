@@ -1,10 +1,11 @@
-# ask the user to input their fullname with several space characters at the beginning. Print the input without the spaces in the beginning.
+# Ask the user to input their fullname with several space characters at the beginning. 
+# Print the input without the spaces in the beginning.
 
-# ask user's full name 
+# Ask user's full name 
 full_name = input("Enter your full name: ")
 
-# process text into cleaner version
+# Process text into cleaner version
 cleaned_text = full_name.strip() # .strip removes leading and trailing spaces
 
-# output full name
+# Output full name
 print(f"Cleaned text: {cleaned_text}")
