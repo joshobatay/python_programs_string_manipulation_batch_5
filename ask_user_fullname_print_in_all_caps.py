@@ -7,3 +7,4 @@ entered_full_name = input("Enter full name: ")
 full_name_all_caps = entered_full_name.upper() # .upper converts text to all capitals
 
 # Output full name in all caps
+print(f"Your name in all caps: {full_name_all_caps}")
