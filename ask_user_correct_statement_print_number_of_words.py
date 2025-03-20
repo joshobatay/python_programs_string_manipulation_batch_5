@@ -4,6 +4,7 @@
 entered_statement = input("Enter statement here: ")
 
 # Process number of words entered
-word_counter = len(entered_statement.split()) # .len() counts words, split() splits by spaces
+word_counter = len(entered_statement.split()) # len() counts words, split() splits by spaces
 
 # Output number of words
+print(f"There are {word_counter} words.")
