@@ -4,6 +4,7 @@
 entered_full_name = input("Enter full name: ")
 
 # Process entered full name by counting characters
-character_count = len(entered_full_name)
+character_count = len(entered_full_name) # len() counts characters
 
 # Output counted characters
+print(f"There are {character_count} characters.")
