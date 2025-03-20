@@ -7,4 +7,4 @@ entered_full_name = input("Enter full name: ")
 lower_case_full_name = entered_full_name.lower() # .lower converts text to lower case
 
 # Output full name in lower case
-print(f"Your name in lower case: {lower_case_full_name}")
+print(f"Your full name in lower case: {lower_case_full_name}")
