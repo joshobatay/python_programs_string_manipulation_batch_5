@@ -4,6 +4,6 @@
 entered_full_name = input("Enter full name: ")
 
 # Process entered full name to reverse casing
-
+reverse_case_full_name = entered_full_name.swapcase()
 
 # Output entered full name in reverse case
